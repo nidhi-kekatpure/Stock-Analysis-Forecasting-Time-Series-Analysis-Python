@@ -15,12 +15,12 @@ fonttools==4.37.1
 gitdb==4.0.9
 GitPython==3.1.27
 idna==3.3
-importlib-metadata>=7.0;
+importlib-metadata>=7.0
 Jinja2==3.1.2
 joblib==1.1.0
 jsonschema==4.14.0
-kiwisolver==1.4.4
-lxml==4.9.1
+kiwisolver>=1.4.7
+lxml>=5.2.1
 MarkupSafe==2.1.1
 matplotlib==3.5.3
 multitasking==0.0.11
