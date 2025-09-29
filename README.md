@@ -2,6 +2,10 @@
 
 A comprehensive Streamlit application for stock analysis, price prediction, and financial modeling. This application provides traders and investors with essential tools for making informed investment decisions through technical analysis, predictive modeling, and risk assessment.
 
+## Deployment
+
+This app is designed to run on Streamlit Cloud: https://stock-analysis-forecasting-time-series-analysis-python-f5ymx3l.streamlit.app/
+
 ## Features
 
 ### 1. Stock Analysis
@@ -168,3 +172,4 @@ Contributions are welcome! Please follow these guidelines:
 4. Add appropriate tests for new functionality
 5. Update documentation as needed
 6. Submit a pull request
+
